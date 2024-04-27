@@ -1,5 +1,5 @@
-3>ENTER YOUR NAME</H3>
-<H3>ENTER YOUR REGISTER NO.</H3>
+3>ENTER YOUR NAME</H3> SANGAVI
+<H3>ENTER YOUR REGISTER NO.</H3> 212222230130
 <H3>EX. NO.6</H3>
 <H3>DATE:</H3>
 <H1 ALIGN =CENTER>Heart attack prediction using MLP</H1>
@@ -68,8 +68,9 @@ print("\nClassification Report:")
 print(classification_rep)
 
 <H3>Output:</H3>
+```
 ![image](https://github.com/Sangavi-suresh/EX-6-NN/assets/118541861/e41054e0-d1f6-4b5d-b876-aecb2d4c01a2)
-
+```
 
 
 <H3>Results:</H3>
