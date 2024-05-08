@@ -72,7 +72,8 @@ print(classification_rep)
 <H3>Output:</H3>
 
 ```
-![image](https://github.com/Sangavi-suresh/EX-6-NN/assets/118541861/e41054e0-d1f6-4b5d-b876-aecb2d4c01a2)
+![323846134-ca59d71b-71db-42bd-a280-7a6a3acba4bb](https://github.com/Sangavi-suresh/EX-6-NN/assets/118541861/14784e82-eb11-4c37-aa0a-748c058f8e43)
+
 
 ```
 
