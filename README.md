@@ -1,5 +1,5 @@
-</H3>ENTER YOUR NAME</H3> SANGAVI
-<H3>ENTER YOUR REGISTER NO.</H3> 212222230130
+</H3>ENTER YOUR NAME</H3> 
+<H3>ENTER YOUR REGISTER NO.</H3> 
 <H3>EX. NO.6</H3>
 <H3>DATE:</H3>
 <H1 ALIGN =CENTER>Heart attack prediction using MLP</H1>
@@ -18,6 +18,7 @@ Step 10:Print the accuracy of the model.<BR>
 Step 11:Plot the error convergence during training using plt.plot() and plt.show().<BR>
 
 <H3>Program: </H3>
+
 ```
 import numpy as np
 import pandas as pd
@@ -68,14 +69,14 @@ print("\nConfusion Matrix:")
 print("conf_matrix")
 print("\nClassification Report:")
 print(classification_rep)
+
 ```
 <H3>Output:</H3>
 
-```
+
 ![323846134-ca59d71b-71db-42bd-a280-7a6a3acba4bb](https://github.com/Sangavi-suresh/EX-6-NN/assets/118541861/14784e82-eb11-4c37-aa0a-748c058f8e43)
 
 
-```
 
 
 <H3>Results:</H3>
